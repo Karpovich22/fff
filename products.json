@@ -1,0 +1,29 @@
+[
+    {
+        "id": "1",
+        "title": "Handmade Leather Notebook",
+        "image": "brown-briefcase.jpg",
+        "description": "Baby Yoda sticker",
+        "price": 84
+    },
+    {
+        "id": "2",
+        "title": "Banana",
+        "image": "leather-bag.jpg",
+        "description": "Banana sticker",
+        "price": 19.99
+    },
+    {
+        "id": "3",
+        "title": "Girl",
+        "image": "leather-notebook.jpg",
+        "description": "Girl sticker",
+        "price": 24.99
+    },
+    {
+        "id": "4",
+        "title": "Viking",
+        "image": "leather-wallet.jpg",
+        "description": "Viking sticker",
+        "price": 34.99
+    }]

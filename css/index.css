@@ -1,0 +1,14 @@
+a.nav-link.openCartLink {
+ position: fixed; 
+	top: 70px; 
+	right: 30px; 
+   
+}
+.svg-inline--fa.fa-w-14{
+ width: 36px;
+ height: 36px;
+ color: black;
+}
+.bg-dark {
+    background-color: rgb(224, 65, 65)!important;
+}
